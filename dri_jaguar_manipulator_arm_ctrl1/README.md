@@ -1,7 +1,7 @@
-this package is merged from fuerte ROS.
-We modified the CMakeList.txt file and package.xml file.
+Pacote modificado de DrRobot para inserir código de cinemática e lógicas de condição.  
 
-please note now we need use "uic main_window.ui -o ui_main_window.h" to gernerate this .h file and copy it to "include" folder.
+
+**instalação:**
 
 catkin_make
 source ./devel/setup.bash
