@@ -33,6 +33,9 @@
 		DLO = Diferença de longitude
 	Essa relação deve ser incluída no código para o cálculo da distância entre os dois pontos desejados. 
 
+
+**Codigos python para os testes**
+	Os codigos **ros-listener2.py** e **ros-tutorial.py** são o listener e o publisher, respectivamente. O publisher lê os dados do GPS e os publica em um Nó, enquanto o listener se inscreve na publicação e faz a tradução dos dados do GPS para leitura das coordenadas. 
 		
 **Trabalhos a serem realizados**
 
